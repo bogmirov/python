@@ -26,4 +26,4 @@ def play(self,cards):
             print('Победители', winners)
         else:
             print('Все проиграли')
-print(play(cards=10))
+print(play())
